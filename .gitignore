@@ -2,3 +2,5 @@
 /ytt
 /ytt-*
 *main
+
+/k8s-schema/
